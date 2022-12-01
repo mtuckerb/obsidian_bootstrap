@@ -1,0 +1,1 @@
+../../vimwiki/Evergreen/Zettelkasten.md

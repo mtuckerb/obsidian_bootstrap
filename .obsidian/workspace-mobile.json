@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "73862dc81234b862",
+    "type": "split",
+    "children": [
+      {
+        "id": "47a60b80f5b74e15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce15b513e3467489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/Meeting_Notes/2022/October-2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e6a71336f0d951f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/2022/2022-10-25.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7de87aa78a171adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arlo Obedience Log - Week 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ecf4cdee5e7d368",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c9fd9fc11f6f963c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e473e891e452b95d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "dcee16ecab0ff81b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "385f31da4fe491b6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7145fe5b925ea343",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "12dd4405238208c1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "diary/Meeting_Notes/2022/October-2022.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "389ba8ab6495a5bb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "diary/Meeting_Notes/2022/October-2022.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2832e1c336489d84",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "diary/Meeting_Notes/2022/October-2022.md"
+          }
+        }
+      },
+      {
+        "id": "34b5c0bb7623819b",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "131579703bc69de0",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": "Open command palette"
+  },
+  "active": "ce15b513e3467489",
+  "lastOpenFiles": [
+    "Arlo Obedience Log - Week 11.md",
+    "media/2022-10-26_Sleep.png.png",
+    "diary/2022/2022-10-25.md",
+    "Arlo Obedience Log.md",
+    "diary/Meeting_Notes/2022/October-2022.md",
+    "_notion-like-tables/table-id-gXFC4b.md",
+    "Home.md"
+  ]
+}

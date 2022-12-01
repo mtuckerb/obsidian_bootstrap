@@ -1,0 +1,18 @@
+div[aria-label="Advanced Tables Toolbar"] {
+  display: none;
+}
+div[aria-label="Open quick switcher"] {
+  display: none;
+}
+div[aria-label="Open graph view"] {
+  display: none;
+}
+div[aria-label="Open command palette"] {
+  display: none;
+}
+div[aria-label="Open format converter"] {
+  display: none;
+}
+div[aria-label="Templater"] {
+  display: none;
+}

@@ -1,0 +1,905 @@
+{
+  "workspaces": {
+    "Personal": {
+      "main": {
+        "id": "42741c983a1dc04d",
+        "type": "split",
+        "children": [
+          {
+            "id": "f936506ae74310d1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f815c580f5f43967",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ephemera/meeting notes/2022/November 2022.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c1114daf39a48e6c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen/Note Taking Slides.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "09cf2f9576d2d31c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e243315e239485c",
+                "type": "leaf",
+                "state": {
+                  "type": "reveal-preview-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a120f696592ee4aa",
+        "type": "split",
+        "children": [
+          {
+            "id": "c66e23dbd269475a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6fd931f455d471c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "576e83d0d447ed1e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "04d0052dec614f8a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "833e7ce1fd4ee6c5",
+        "type": "split",
+        "children": [
+          {
+            "id": "dd72d335aa111a0e",
+            "type": "tabs",
+            "dimension": 49.829351535836174,
+            "children": [
+              {
+                "id": "be913bdd4ffd5478",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Evergreen/Note Taking Slides.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "29045ee9476b9ab7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Evergreen/Note Taking Slides.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "42b42e51da5b52a9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "66b5d71e1ac445f3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Evergreen/Note Taking Slides.md"
+                  }
+                }
+              },
+              {
+                "id": "91956494d89c642e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "be17f69f07df1770",
+                "type": "leaf",
+                "state": {
+                  "type": "chat",
+                  "state": {}
+                }
+              },
+              {
+                "id": "fdad6f871dcdbbbf",
+                "type": "leaf",
+                "state": {
+                  "type": "video-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "512416d4c84a2c22",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4097f38bbdb0e6ed",
+                "type": "leaf",
+                "state": {
+                  "type": "inline-scripts-button-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 6
+          },
+          {
+            "id": "515b75572f939099",
+            "type": "tabs",
+            "dimension": 50.170648464163826,
+            "children": [
+              {
+                "id": "7f4debfebf99a299",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ce941b1659ca1044",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 361.5,
+        "collapsed": true
+      },
+      "active": "3e243315e239485c"
+    },
+    "Work": {
+      "main": {
+        "id": "42741c983a1dc04d",
+        "type": "split",
+        "children": [
+          {
+            "id": "96d870a07cbc496e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "39fbfb4621538ccc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ephemera/diary/2022/2022-11-26.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a9c37eeec1619ee1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ephemera/SprintNotes/sprint-87-anillish/Story - HOM-79.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0f0fa19c14450437",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Evergreen/Note Taking Slides.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d5865e02bb88ed8b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ephemera/Meeting_Notes/Eng Leadership.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a120f696592ee4aa",
+        "type": "split",
+        "children": [
+          {
+            "id": "c66e23dbd269475a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6fd931f455d471c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "576e83d0d447ed1e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#cheesecake-factory",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "04d0052dec614f8a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d9c069bdcdfa9685",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "833e7ce1fd4ee6c5",
+        "type": "split",
+        "children": [
+          {
+            "id": "dd72d335aa111a0e",
+            "type": "tabs",
+            "dimension": 20.11776251226693,
+            "children": [
+              {
+                "id": "be913bdd4ffd5478",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Ephemera/diary/2022/2022-11-26.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "29045ee9476b9ab7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Ephemera/diary/2022/2022-11-26.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "42b42e51da5b52a9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "66b5d71e1ac445f3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Ephemera/diary/2022/2022-11-26.md"
+                  }
+                }
+              },
+              {
+                "id": "c671315b566579a6",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              },
+              {
+                "id": "91956494d89c642e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ce941b1659ca1044",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7f4debfebf99a299",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "89510ac05a9532b4",
+                "type": "leaf",
+                "state": {
+                  "type": "chat",
+                  "state": {}
+                }
+              },
+              {
+                "id": "07f0d8bd89479f7e",
+                "type": "leaf",
+                "state": {
+                  "type": "inline-scripts-button-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5e8e922d39a2e611",
+                "type": "leaf",
+                "state": {
+                  "type": "google-calendar-view-month",
+                  "state": {}
+                }
+              },
+              {
+                "id": "dcbe8485d512bf69",
+                "type": "leaf",
+                "state": {
+                  "type": "google-calendar-view-schedule",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 6
+          },
+          {
+            "id": "819aa19332078158",
+            "type": "tabs",
+            "dimension": 79.88223748773308,
+            "children": [
+              {
+                "id": "9e15bfa5fe40972b",
+                "type": "leaf",
+                "state": {
+                  "type": "google-calendar-view-day",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 383.5,
+        "collapsed": true
+      },
+      "active": "39fbfb4621538ccc"
+    },
+    "Planning": {
+      "main": {
+        "id": "42741c983a1dc04d",
+        "type": "split",
+        "children": [
+          {
+            "id": "1b852112f138c49a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "926d096f78e746d5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DogLog/Arlo Doggologgo - Week 12.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a120f696592ee4aa",
+        "type": "split",
+        "children": [
+          {
+            "id": "c66e23dbd269475a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6fd931f455d471c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "576e83d0d447ed1e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "04d0052dec614f8a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "833e7ce1fd4ee6c5",
+        "type": "split",
+        "children": [
+          {
+            "id": "dd72d335aa111a0e",
+            "type": "tabs",
+            "dimension": 58.50574712643678,
+            "children": [
+              {
+                "id": "be913bdd4ffd5478",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "DogLog/Arlo Doggologgo - Week 12.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "29045ee9476b9ab7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "DogLog/Arlo Doggologgo - Week 12.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "42b42e51da5b52a9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "66b5d71e1ac445f3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "DogLog/Arlo Doggologgo - Week 12.md"
+                  }
+                }
+              },
+              {
+                "id": "c671315b566579a6",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              },
+              {
+                "id": "91956494d89c642e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ce941b1659ca1044",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9fb155e3ed0cb5e1",
+                "type": "leaf",
+                "state": {
+                  "type": "inline-scripts-button-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "399863f8a11f3822",
+                "type": "leaf",
+                "state": {
+                  "type": "chat",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 6
+          },
+          {
+            "id": "515b75572f939099",
+            "type": "tabs",
+            "dimension": 41.49425287356322,
+            "children": [
+              {
+                "id": "7f4debfebf99a299",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 351.5
+      },
+      "active": "926d096f78e746d5"
+    },
+    "AI": {
+      "main": {
+        "id": "42741c983a1dc04d",
+        "type": "split",
+        "children": [
+          {
+            "id": "a7323ed6bccf1f04",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c90bd7d75648b6f3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Training, Skills, etc/Things that are related to other things.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a120f696592ee4aa",
+        "type": "split",
+        "children": [
+          {
+            "id": "c66e23dbd269475a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6fd931f455d471c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "576e83d0d447ed1e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "casbin",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "04d0052dec614f8a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "833e7ce1fd4ee6c5",
+        "type": "split",
+        "children": [
+          {
+            "id": "dd72d335aa111a0e",
+            "type": "tabs",
+            "dimension": 63.899371069182386,
+            "children": [
+              {
+                "id": "be913bdd4ffd5478",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Training, Skills, etc/Things that are related to other things.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "29045ee9476b9ab7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Training, Skills, etc/Things that are related to other things.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "42b42e51da5b52a9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "66b5d71e1ac445f3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Training, Skills, etc/Things that are related to other things.md"
+                  }
+                }
+              },
+              {
+                "id": "c671315b566579a6",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              },
+              {
+                "id": "91956494d89c642e",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ce941b1659ca1044",
+                "type": "leaf",
+                "state": {
+                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "89510ac05a9532b4",
+                "type": "leaf",
+                "state": {
+                  "type": "chat",
+                  "state": {}
+                }
+              },
+              {
+                "id": "07f0d8bd89479f7e",
+                "type": "leaf",
+                "state": {
+                  "type": "inline-scripts-button-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 7
+          },
+          {
+            "id": "515b75572f939099",
+            "type": "tabs",
+            "dimension": 36.10062893081761,
+            "children": [
+              {
+                "id": "7f4debfebf99a299",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 333.5
+      },
+      "active": "89510ac05a9532b4"
+    }
+  },
+  "active": "Work"
+}

@@ -1,0 +1,9 @@
+{
+  "accentColor": "#6ea9c9",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "American Typewriter",
+  "textFontFamily": "American Typewriter",
+  "baseFontSize": 18,
+  "translucency": true
+}
