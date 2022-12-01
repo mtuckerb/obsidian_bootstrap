@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               }
             }
           },
@@ -203,8 +203,9 @@
     "width": 383.5,
     "collapsed": true
   },
-  "active": "0add0784fa48494b",
+  "active": "f6fd931f455d471c",
   "lastOpenFiles": [
+    "README.md",
     "Attachments/Recording 20221130164717.webm",
     "excalibrain.md",
     "Excalidraw/Untitled.md",
@@ -213,7 +214,6 @@
     "Ephemera/November/2022-11-20-Team Meeting.md",
     "Ephemera/Meeting_Notes/Eng Leadership.md",
     "Ephemera/diary/2022/2022-11-20.md",
-    "README.md.md",
     "Excalidraw/Drawing 2022-11-30 16.44.05.excalidraw.md"
   ]
 }
