@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "96d870a07cbc496e",
+        "id": "1bf54bd00943d07e",
         "type": "tabs",
         "children": [
           {
-            "id": "5400d81c340d3326",
+            "id": "04ed69ae7ddbe618",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "0add0784fa48494b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tucker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ff0b62640869344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ephemera/diary/2022/2022-12-01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ephemera/diary/2022/2022-12-01.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ephemera/diary/2022/2022-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ephemera/diary/2022/2022-12-01.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,17 +184,38 @@
     "direction": "horizontal",
     "width": 383.5
   },
-  "active": "3ff0b62640869344",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-map-view:Open map view": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-agile-task-notes:Update Current Sprint": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "04ed69ae7ddbe618",
   "lastOpenFiles": [
-    "Evergreen/Note Taking Slides.md",
-    "Ephemera/Jordyn.md",
-    "Ephemera/November/2022-11-08-Stand Up.md",
+    "Ephemera/diary/2022/2023-02-07.md",
+    "Ephemera/diary/2022/2022-12-06.md",
+    "Tucker.md",
+    "Ephemera/diary/2022/2022-12-05.md",
     "Ephemera/Meeting_Notes/2022/12. December/2022-12-01-EngWorkingSession.md",
-    "Ephemera/diary/2022/2022-11-30.md",
-    "Excalidraw/Drawing 2022-11-20 15.51.18.excalidraw.md",
-    "Ephemera/Meeting_Notes/Stand Up.md",
-    "Ephemera/diary/2022/Tony.md",
-    "Ephemera/diary/2022/EngWorkingSession.md",
-    "Ephemera/diary/2022/2022-11-08.md"
+    "Ephemera/Jordyn.md",
+    "Ephemera/diary/2022/2022-12-01.md",
+    "Evergreen/Note Taking Slides.md",
+    "Ephemera/November/2022-11-08-Stand Up.md",
+    "Ephemera/diary/2022/2022-11-30.md"
   ]
 }
